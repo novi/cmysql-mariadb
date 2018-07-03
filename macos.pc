@@ -1,4 +1,4 @@
-prefix=/usr/local/opt/mysql
+prefix=/usr/local/opt/mariadb
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include
